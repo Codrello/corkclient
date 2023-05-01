@@ -8,7 +8,7 @@ With a [Docker Engine installed](https://docs.docker.com/engine/install/) use it
 docker run -d -p 8080:8080 holtwick/briefing
 ```
 
-If running locally, you can now access it via <http://localhost:8080>.
+If running locally, you can now access it via <http://188.166.160.18:8080>.
 
 For production installation I recommend using a [proxy](#proxy) and consider making a `docker-compose.yml`.
 
