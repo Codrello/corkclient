@@ -7,7 +7,7 @@ npm install
 npm start
 ```
 
-Access the local server via [http://188.166.160.18:8080](http://188.166.160.18:8080).
+Access the local server via [http://localhost:8080](http://localhost:8080).
 
 ## Customization
 

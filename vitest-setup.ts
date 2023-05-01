@@ -14,7 +14,7 @@ globalThis.navigator = { language: 'en', userAgent: '' }
 // @ts-expect-error HACK
 globalThis.location = {
   protocol: 'http:',
-  host: 'http://188.166.160.18:8080',
+  host: 'http://localhost:8080',
 }
 
 // @ts-expect-error HACK
